@@ -1,0 +1,15 @@
+{
+  "name": "regras",
+  "version": "1.0.0",
+  "description": "regras para equipe",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.1",
+    "path": "^0.12.7"
+  },
+  "author": "zYuuta",
+  "license": "ISC"
+}
